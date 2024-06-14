@@ -1,2 +1,4 @@
 # Projeto-Conta-Banco-POO
-Projeto simples que simula uma Conta Bancária com a finalidade de abstrair conceitos relacionados aos pilares de POO (Programação Orientada a Objetos).
+## Descrição:
+O projeto foi desenvolvido com propósito de implementar e mostrar na prática com funciona a manipulação dos Pilares da POO. 
+Através de um simples projeto onde simulamos uma Conta Bancária repleta de classses e métodos conseguimos ilustrar bem como funciona na prática a Programação Orientada a Objetos. 
